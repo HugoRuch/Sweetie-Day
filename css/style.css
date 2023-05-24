@@ -14,8 +14,9 @@ p {
   line-height: 155%;
   padding: 3%;
   text-indent: 2%;
-  text-align: justify;
+  text-align: center;
 }
+
 h3 {
   font-size: 175%;
   line-height: 155%;
@@ -103,6 +104,8 @@ nav ul li a {
   padding: 10px;
   text-align: center;
 }
+
+
 
 .icon-wrap {
   margin: 0 auto;
